@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/15 16:03:27.000.645,=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/06/15 16:03:27.000.623,=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/06/28 18:20:32.158,=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/06/28 18:20:32.223,=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/06/28 18:23:00.233,C:\Users\fires\OneDrive\Desktop\Project\batch_gui\Project1PCH1.h=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/06/28 18:23:00.261,C:\Users\fires\OneDrive\Desktop\Project\batch_gui\Unit1.h=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/06/28 18:23:00.261,C:\Users\fires\OneDrive\Desktop\Project\batch_gui\Unit1.dfm=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/06/28 18:23:00.261,C:\Users\fires\OneDrive\Desktop\Project\batch_gui\Unit1.cpp=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/06/28 18:23:00.293,C:\Users\fires\OneDrive\Desktop\Project\batch_gui\Project1.cbproj=C:\Users\fires\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
